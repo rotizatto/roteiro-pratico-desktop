@@ -7,4 +7,4 @@
 Este é um roteiro prático realizado na disciplina de Introdução ao Desenvolvimento Web.
 
 ## Informações complementares
-Não existe informações complementares. Apenas testando funcionalidades.
+Não existem informações complementares. Apenas testando funcionalidades.
